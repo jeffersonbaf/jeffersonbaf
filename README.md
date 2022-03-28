@@ -10,6 +10,8 @@
 <div>
    <img align="center" alt="Jeff-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Jeff-DOTNET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">
+  <img align="center" alt="Jeff-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/html-plain.svg">
+  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/javascript-plain.svg">
    <img align="right" alt="Jeff-gif" src="https://c.tenor.com/zcr8c2sf2DIAAAAM/coffee-anime.gif">
 </div>
   
