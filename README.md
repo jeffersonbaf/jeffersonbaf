@@ -10,7 +10,7 @@
 <div>
    <img align="center" alt="Jeff-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Jeff-DOTNET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">
-   <img align="right" alt="Jeff-gif" src="https://cdn.discordapp.com/attachments/759141719761092678/881738781991006269/a5a5a41ad9087b8050feab7080ce744ad0cb8d77r1-301-358_128.gif">
+   <img align="right" alt="Jeff-gif" src="https://c.tenor.com/zcr8c2sf2DIAAAAM/coffee-anime.gif">
 </div>
   
  ##
